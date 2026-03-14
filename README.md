@@ -1,7 +1,7 @@
- Hi 👋, I'm Imran Alam
-A passionate Cloud Engineer || DevOps Engineer || Kafka Admin from India
+ Hi 👋, I'm Dushyant Chauhan
+I am a Full Stack Developer
 
-Email Me 👉 ✉️ alamimran613@live.com For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ dushyantr737@gmail.com For Collaboration/Project or Anything Else. 😊😊
 
 🔭 I’m currently working on: Full stack development
 🌱 I’m currently learning: Node.js
