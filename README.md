@@ -6,7 +6,6 @@ Email Me 👉 ✉️ **dushyantr737@gmail.com** For Collaboration/Project or Any
 - 🔭 **I’m currently working on:** Old Question paper Portal
 - 🌱 **I’m currently learning:** Full stack
 - 👯 **I’m looking to collaborate on:** Mdu_old_Paper This is basically all student show previous paper
-- 🤔 **I’m looking for help with:** Mdu_Old_paper
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** dushyantr737@gmail.com
 - 😄 **Pronouns:** Dushyant chauhan
