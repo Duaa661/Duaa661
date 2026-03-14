@@ -1,3 +1,16 @@
+ Hi 👋, I'm Imran Alam
+A passionate Cloud Engineer || DevOps Engineer || Kafka Admin from India
+
+Email Me 👉 ✉️ alamimran613@live.com For Collaboration/Project or Anything Else. 😊😊
+
+🔭 I’m currently working on: Full stack development
+🌱 I’m currently learning: Node.js
+👯 I’m looking to collaborate on: Mdu_old_Question_Paper project
+🤔 I’m looking for help with: https://github.com/Duaa661/Mdu_pyq-Frontend.git
+💬 Ask me about: Collaboration, Tech Support
+📫 How to reach me: dushhyantr737@gmail.com
+😄 Pronouns: Dushyant Chauhan
+⚡ Fun fact: I Love Tech and I Love Code
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rajputdushyant213) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/dushyant-chauhan-9ab359245/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/DRajput68128) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@791kGaming) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Dushyant Rajput) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dushyantr737@gmail.com) 
