@@ -1,16 +1,16 @@
-# 💫 Hi 👋, I'm Dushyant chauhan
+# Hi  I'm Dushyant chauhan
 **A passionate Cloud Engineer || Software Engineer || Full Stack Developer || I LOVE Data Struture Algorithm (DSA)
-Email Me 👉 ✉️ **dushyantr737@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 **dushyantr737@gmail.com** For Collaboration/Project or Anything Else. 
 
-- 🔭 **I’m currently working on:** Old Question paper Portal
-- 🌱 **I’m currently learning:** Machine Learning && Data Analytics && Node.js && React
-- 👯 **I’m looking to collaborate on:** Mdu_old_Paper This is basically all student show previous year paper
-- 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** dushyantr737@gmail.com
-- 😄 **Pronouns:** Dushyant chauhan
-- ⚡ **Fun fact:** I Love Tech and Tech Love me
+-  **I’m currently working on:** Old Question paper Portal
+-  **I’m currently learning:** Machine Learning && Data Analytics && Node.js && React
+-  **I’m looking to collaborate on:** Mdu_old_Paper This is basically all student show previous year paper
+-  **Ask me about:** Collaboration, Tech Support
+-  **How to reach me:** dushyantr737@gmail.com
+-  **Pronouns:** Dushyant chauhan
+-  **Fun fact:** I Love Tech and Tech Love me
 
-## 🔗 I am a Full Stack Developer. 😊😊
+## 🔗 I am a Full Stack Developer. 
 
 Stay updated with the latest tutorials and projects by subscribing to my YouTube channel and following on Instagram, Facebook and Twitter.
 ## 🌐 Socials:
