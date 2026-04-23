@@ -1,10 +1,9 @@
 # 💫 Hi 👋, I'm Dushyant chauhan
 **A passionate Cloud Engineer || Software Engineer || Full Stack Developer || I LOVE Data Struture Algorithm (DSA)
-Current Learning -->Machine Learning && Data Analytics
 Email Me 👉 ✉️ **dushyantr737@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** Old Question paper Portal
-- 🌱 **I’m currently learning:** Node.js
+- 🌱 **I’m currently learning:** Machine Learning && Data Analytics && Node.js && React
 - 👯 **I’m looking to collaborate on:** Mdu_old_Paper This is basically all student show previous year paper
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** dushyantr737@gmail.com
